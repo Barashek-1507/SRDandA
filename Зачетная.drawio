@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:59:23.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="1JCPhk9A9lmHJs8n1ENe" version="14.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-23T12:17:30.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="31fXb1X7FZUrrqzit3g5" version="14.1.1" type="github" pages="3">
   <diagram id="BTbw_I0JEO3VkIrEt3Dl" name="Страница 1">
     <mxGraphModel dx="1186" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
         <mxCell id="PUnpbS0TN84MkkGF6QxS-19" value="Качественный продукт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wvqjP0iySUWCF_7wlj6-1">
           <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CVTArP03fCffLtt9GTQd-0" value="Система обеспечения&amp;nbsp;&lt;br&gt;качества продукта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6wvqjP0iySUWCF_7wlj6-1">
+          <mxGeometry x="50" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -134,8 +137,68 @@
       <root>
         <mxCell id="YavwhHdRZ_P_Wo6StO-G-0" />
         <mxCell id="YavwhHdRZ_P_Wo6StO-G-1" parent="YavwhHdRZ_P_Wo6StO-G-0" />
-        <mxCell id="YavwhHdRZ_P_Wo6StO-G-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
-          <mxGeometry x="40" y="60" width="760" height="60" as="geometry" />
+        <mxCell id="YavwhHdRZ_P_Wo6StO-G-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;Введение &amp;nbsp;отчетов о качестве работы оборудования&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="40" y="80" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="kIRx1-GSm4Dqs67PoD7d-0" target="kIRx1-GSm4Dqs67PoD7d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIRx1-GSm4Dqs67PoD7d-0" value="Еженедельный проход по цеху" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="kIRx1-GSm4Dqs67PoD7d-1" target="kIRx1-GSm4Dqs67PoD7d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="kIRx1-GSm4Dqs67PoD7d-1" target="kIRx1-GSm4Dqs67PoD7d-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIRx1-GSm4Dqs67PoD7d-1" value="Проверка основных функций оборудования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="kIRx1-GSm4Dqs67PoD7d-2" target="kIRx1-GSm4Dqs67PoD7d-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="430" />
+              <mxPoint x="400" y="355" />
+              <mxPoint x="470" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIRx1-GSm4Dqs67PoD7d-2" value="Ежемесячное проведние тестов для сотрудников&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="kIRx1-GSm4Dqs67PoD7d-3" target="kIRx1-GSm4Dqs67PoD7d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIRx1-GSm4Dqs67PoD7d-3" value="Запись всех отклонений в отчётный лист" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="kIRx1-GSm4Dqs67PoD7d-4" target="zmj6lfPHPbEd9wD-R2fW-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIRx1-GSm4Dqs67PoD7d-4" value="Формирование отчёта для откладки всех отклонений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" source="zmj6lfPHPbEd9wD-R2fW-0" target="zmj6lfPHPbEd9wD-R2fW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-0" value="Вызов мастеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="YavwhHdRZ_P_Wo6StO-G-1" target="kIRx1-GSm4Dqs67PoD7d-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="80" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-8" value="Руководитель цеха" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="20" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmj6lfPHPbEd9wD-R2fW-16" value="Бесперебойная и качественная работа оборудования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YavwhHdRZ_P_Wo6StO-G-1">
+          <mxGeometry x="670" y="255" width="147" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
